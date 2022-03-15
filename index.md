@@ -1,4 +1,6 @@
-<title>My Resume</title>
+---
+title: "My Resume"
+---
 
 # Joshua Dueck
 Student: University of Manitoba
