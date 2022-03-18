@@ -3,7 +3,9 @@ _phone redacted_ | _joshua.dueck@gmail.com_ | _www.joshuadueck.com_
 
 ## Education
 **Bachelor of Science, Computer Science (Co-op)**, University of Manitoba
+
 _GPA: 4.08/4.50_
+
 Pursuing specializations in Software Engineering, Distributed Computing, and Human-Computer Interaction.
 
 ## Technical Skills
@@ -26,7 +28,7 @@ Worked on the Data Support team to maintain and manage the flow of large amounts
 * Developed SQL queries to ensure data between legacy systems and new systems is mapped correctly.
 * Performed maintenance on Stonebranch tasks to adjust the triggering and execution of data tasks, as well as the reporting of failures to ease the burden for on-call responders.
 
-**Software Developer Co-op**, Bold Commerce
+**Software Developer Co-op**, *Bold Commerce*
 
 _January 2021 - April 2021_
 
@@ -36,7 +38,7 @@ Worked on the Checkout Plugins & APIs team to develop solutions to help merchant
 * Created and modified documentation (and diagrams) to ease the onboarding process for new developers.
 * Wrote unit and integration tests for all deployed features in accordance with Test-Driven Development standards to ensure robust code quality.
 
-**Freelance Web-Designer / Social Media Manager**, Wise Creative
+**Freelance Web-Designer / Social Media Manager**, *Wise Creative*
 
 _August 2019 - May 2021_
 
@@ -59,7 +61,7 @@ _Fall 2020_
 A group project for Human-Computer Interaction I, focused on designing a useful interface for users to order food online. I took on a leadership role, designating work between team members, and making decisions about the technology and approaches used for the project. We used React.js to design the interactive mock-up.
 
 ## Volunteer Experience
-**Moderator / Event Coordinator**, Overcast Network
+**Moderator / Event Coordinator**, *Overcast Network*
 
 _March 2015 - September 2016_
 
