@@ -28,15 +28,3 @@ Since Markdown is stored as a plain-text file, it is extremely portable and can 
 > Q: Why is my resume not showing up?
 
 It often takes a few minutes before GitHub Pages can build and deploy a new version of your website after you push a commit. You can view the current status of your most recent deployment via the deployment page for your website repository: www.github.com/[your username]/[repository name]/deployments/.
-
-## Purpose
-
-## Configuration/Installation
-
-## File Manifest
-
-## Copyright and Licensing
-
-## Known Bugs
-
-## Troubleshooting

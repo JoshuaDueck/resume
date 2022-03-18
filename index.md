@@ -1,3 +1,6 @@
+---
+title: null
+---
 # Joshua Dueck
 _joshua.dueck@gmail.com_
 
