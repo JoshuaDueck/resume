@@ -1,5 +1,5 @@
 # Joshua Dueck
-_phone redacted_ | _joshua.dueck@gmail.com_ | _www.joshuadueck.com_
+_joshua.dueck@gmail.com_
 
 ## Education
 **Bachelor of Science, Computer Science (Co-op)**, University of Manitoba
@@ -15,7 +15,7 @@ Pursuing specializations in Software Engineering, Distributed Computing, and Hum
 
 **Developer Tools:**
 * Git, bash/zsh, Visual Studio Code, XDebug, Docker, Stonebranch.
-* Windows, MacOS, and Linux (Ubuntu, Arch).
+* Windows, MacOS, and Linux.
 
 ## Relevant Work Experience
 **Software Developer - Data**, Investors Group
