@@ -1,4 +1,4 @@
-# Resume
+# Joshua Dueck's Resume
 
 ## Purpose
 It is critical that software develpers looking for jobs host an up-to-date, easily-readable resume. In this README, we will look at a very easy approach to hosting a resume on GitHub Pages.
@@ -7,13 +7,17 @@ It is critical that software develpers looking for jobs host an up-to-date, easi
 * A Markdown-formatted resume. See this great [GitHub Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) on Markdown syntax.
 * A GitHub account.
 
-## How to Host a Resume Repository on GitHub Pages
+## Instructions
 Setting up a basic repository to host a resume on GitHub Pages is simple, and requires only very basic knowledge of Markdown, Jekyll, and Git. Markdown is a light-weight text format that allows usersto write plain-text files with special notation, that can easily be converted into HTML to be styled and displayed in a browser. Jekyll is a tool that is used to 
 
 1. Create a new repository on GitHub
 2. Create a resume in Markdown, called index.md.
 3. Enable GitHub Pages on that repository.
 4. Add a theme.
+
+## More Resources
+
+## Authors & Acknowledgements
 
 ## FAQs
 > Why is Markdown better than a word processor?
