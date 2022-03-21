@@ -1,7 +1,7 @@
 ---
-title: null
+title: "Joshua Dueck"
+name: "Joshua Dueck"
 ---
-# Joshua Dueck
 _joshua.dueck@gmail.com_
 
 ## Education
